@@ -1,4 +1,4 @@
 # agenda-ffcam
 Notifier for FFCAM based agenda
 
-Configure your notifications from [here](agendaffcam.drartemi.org).
+Configure your notifications from [here](https://agendaffcam.drartemi.org).
